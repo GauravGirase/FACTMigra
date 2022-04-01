@@ -1,3 +1,3 @@
-NAME,AGE,EDUCATION,CONTACT
-Gaurav,24,B.Tech,1234
-sourabh,25,M.Tech,5678
+NAME,AGE,EDUCATION,CONTACT,DES
+Gaurav,24,B.Tech,1234,"In the past, I tried the solution proposed by @Dvir669 and the wget command wasn't getting the full console log. That's why I've used the method described in my solution. So if you want to work on your build log in a post build step action, my solution is better (I think)"
+sourabh,25,M.Tech,5678,"In the past, I tried the solution proposed by @Dvir669 and the wget command wasn't getting the full console log. That's why I've used the method described in my solution. So if you want to work on your build log in a post build step action, my solution is better (I think)"
